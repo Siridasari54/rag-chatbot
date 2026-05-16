@@ -128,6 +128,8 @@ Summarise what chapter 3 covers
 Compare what both documents say about gradient descent
 ```
 
+![image alt](https://github.com/Siridasari54/rag-chatbot/blob/5c9a21233e65bca8068a1d31e816c9a70ecdc27c/rag%20image.png)
+
 ### Credentials
 
 No login required. Your Groq API key in the `.env` file is the only credential needed.
